@@ -1,3 +1,7 @@
+/*specifiedhw 1.8- Basic Programming Fall 2023- Group 6- Aida Mahdavi:40223078
+Task-> Write a program which for a race of n people, determines the winner, whether they broke 1)their own & 2)the overall record 
+  (*)ANd lastly showcases the entire race's data in an increasing order chart
+*/
 #include<stdio.h>
 #include<string.h>
 
